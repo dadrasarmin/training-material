@@ -63,7 +63,7 @@ For more insights into the initial Python workshop, you can explore the [blog po
 
 ### Workshop logistics
 
-The workshop was conducted using learning materials from [**The Carpentries**](https://carpentries.org/index, known for their community-driven development and extensive validation through workshop evaluations. This approach ensured that the content was both robust and user-friendly.
+The workshop was conducted using learning materials from [**The Carpentries**](https://carpentries.org/), known for their community-driven development and extensive validation through workshop evaluations. This approach ensured that the content was both robust and user-friendly.
 
 To facilitate a smooth experience, installation instructions were provided ahead of time, along with scheduled help sessions for those who requested assistance. Participants received a checklist to test their setups prior to the workshop, ensuring that all technical requirements were met.
 
